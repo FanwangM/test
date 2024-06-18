@@ -66,7 +66,7 @@ setup(
     url="https://github.com/theochem/Selector",  # Website
     install_requires=[
         "numpy>=1.21.2",
-        "scipy==1.11.1",
+        "scipy>=1.11.1",
         "pytest>=6.2.4",
         "scikit-learn",
         "bitarray",
